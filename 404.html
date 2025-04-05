@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | DammyTechHub</title>
+  <script>
+    // Redirect to index.html which will then let React Router handle the 404
+    sessionStorage.redirect = location.href.split('/DammyTechHub/')[1];
+    window.location.href = '/DammyTechHub/';
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    h1 {
+      font-size: 50px;
+    }
+    p {
+      font-size: 20px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <noscript>
+    <div class="container">
+      <h1>404</h1>
+      <p>Oops! The page you're looking for doesn't exist.</p>
+      <p>You'll be redirected to the homepage in a few seconds.</p>
+      <p>If you're not redirected, <a href="/DammyTechHub/">click here</a> to go to the homepage.</p>
+    </div>
+  </noscript>
+</body>
+</html>
