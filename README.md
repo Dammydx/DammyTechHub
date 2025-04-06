@@ -30,9 +30,15 @@ https://dammydx.github.io/DammyTechHub/
      - WhatsApp Payment
    - Complete the purchase
 
+4. **Managing Your Account**
+   - View order history
+   - Track orders
+   - Update profile information
+   - Change password
+
    ## For Booking Services
    
-5. **Booking Services**
+1. **Booking Services**
    - Click "Book Services"
    - Choose service type:
      - Device Repair
@@ -42,11 +48,6 @@ https://dammydx.github.io/DammyTechHub/
    - Fill in service details
    - Submit booking request - Pretty simple
 
-6. **Managing Your Account**
-   - View order history
-   - Track orders
-   - Update profile information
-   - Change password
 
 ### For Administrators
 
