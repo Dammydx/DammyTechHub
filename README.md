@@ -30,7 +30,9 @@ https://dammydx.github.io/DammyTechHub/
      - WhatsApp Payment
    - Complete the purchase
 
-4. **Booking Services**
+   ## For Booking Services
+   
+5. **Booking Services**
    - Click "Book Services"
    - Choose service type:
      - Device Repair
@@ -38,9 +40,9 @@ https://dammydx.github.io/DammyTechHub/
      - CCTV Installation
      - Network Setup
    - Fill in service details
-   - Submit booking request
+   - Submit booking request - Pretty simple
 
-5. **Managing Your Account**
+6. **Managing Your Account**
    - View order history
    - Track orders
    - Update profile information
@@ -100,3 +102,6 @@ For assistance, contact:
 4. Payment confirmation required before order processing
 5. 30-day warranty on repairs
 6. Standard manufacturer warranty on products
+
+   ## Created Using React,Node.js,Taliwind-css and love From Your's truly DammyX
+## Owner Dammy Irewole
